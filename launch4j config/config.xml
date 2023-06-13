@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\tusha\OneDrive\Documents\NetBeansProjects\dbms\dist\dbms.jar</jar>
+  <outfile>C:\Users\tusha\OneDrive\Documents\NetBeansProjects\dbms\dist\Digital Mobile Shop.exe</outfile>
+  <errTitle>My awesome program needs java. Please install java first.</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\tusha\OneDrive\Desktop\logo1.ico</icon>
+  <singleInstance>
+    <mutexName>Digital MobilePhone Shop</mutexName>
+    <windowTitle>Digital MobilePhone Shop</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>C:\Program Files\Java\jre-1.8</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Digital Mobile Shop</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Digital Mobile Shop</productName>
+    <companyName>Apha Smartphone </companyName>
+    <internalName>Digital Mobile Shop</internalName>
+    <originalFilename>Digital Mobile Shop.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>dbms</title>
+        <vendor>tusha</vendor>
+        <homepage href=""/>
+        <description>dbms</description>
+        <description kind="short">dbms</description>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="dbms.jar" main="true"/>
+    <jar href="lib/javax.mail.jar"/>
+<jar href="lib/javax.mail.jar"/>
+<jar href="lib/mysql-connector-java-8.0.29-tidb-1.0.2.jar"/>
+</resources>
+    <application-desc main-class="dbms.Dbms">
+    </application-desc>
+</jnlp>
